@@ -242,7 +242,7 @@ import Navbar from "./Components/Navbar";
 import Home from "./pages/Home";
 import Shop from "./pages/Shop";
 import Cart from "./pages/Cart";
-import History from "./pages/History";
+import History from "./pages/history";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 
