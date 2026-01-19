@@ -52,7 +52,7 @@
 //             }
 //           />
 //         </Routes>
-     
+
 //     </BrowserRouter>
 //   );
 // }
@@ -88,13 +88,13 @@
 //           }
 //         />
 //         <Route path="/cart" element={<Cart />} />
-  
+
 //   <Route
 //   path="/shop"
 //   element={<Shop />}
 // />
 //       </Routes>
-      
+
 //     </BrowserRouter>
 //   );
 // }
